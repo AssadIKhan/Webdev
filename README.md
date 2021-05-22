@@ -1,7 +1,8 @@
 # Webdev
+```
  # WebDev Blogging Site WebDev is Actually Laravel 8 Based Blogging Website. 
  # In Website, User can login/Register,✔ Submit a post, delete a post, Update a post etc.  
-
+```
 ## Usage 
 ``` 
 Just to make sure Laravel is already install on your device.  
